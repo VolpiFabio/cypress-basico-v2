@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "saude-prod.cxnjnmddnhrn.sa-east-1.rds.amazonaws.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "saude_braganca_paulista",
+            "username": "rouser",
+            "database": "saude_braganca_paulista",
+            "password": "haU@T8mp"
+        }
+    ]
+}
